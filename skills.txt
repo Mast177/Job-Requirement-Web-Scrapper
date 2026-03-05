@@ -1,1 +1,7 @@
-
+python
+git
+github
+computer science
+game design
+c++
+c#
